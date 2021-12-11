@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[https://www.javatpoint.com/singly-linked-listSinlgle Linked List Works]]>
+    </line>
+    <line>
+      <![CDATA[https://www.javatpoint.com/ds-linked-listDS Linked List Works]]>
+    </line>
+    <line>
+      <![CDATA[https://www.javatpoint.com/doubly-linked-listDoubly Linked Link Works]]>
+    </line>
+    <line>
+      <![CDATA[https://www.javatpoint.com/ds-types-of-linked-listTypes Link Works]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-11-23T17:17:18 EST" name="Default suite" finished-at="2021-11-23T17:17:59 EST" duration-ms="41195">
+    <groups>
+    </groups>
+    <test started-at="2021-11-23T17:17:18 EST" name="Default test" finished-at="2021-11-23T17:17:59 EST" duration-ms="41195">
+      <class name="com.automation.testcases.Test_TypesOfLinkListsPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automation.testcases.Test_TypesOfLinkListsPage@332729ad]" started-at="2021-11-23T17:17:18 EST" name="setUp" finished-at="2021-11-23T17:17:29 EST" duration-ms="10889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Single_Link_List_Intro_Page()[pri:1, instance:com.automation.testcases.Test_TypesOfLinkListsPage@332729ad]" started-at="2021-11-23T17:17:29 EST" name="Single_Link_List_Intro_Page" finished-at="2021-11-23T17:17:42 EST" duration-ms="12937" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://www.javatpoint.com/singly-linked-listSinlgle Linked List Works]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Single_Link_List_Intro_Page -->
+        <test-method signature="Linked_list_jp()[pri:2, instance:com.automation.testcases.Test_TypesOfLinkListsPage@332729ad]" started-at="2021-11-23T17:17:42 EST" name="Linked_list_jp" finished-at="2021-11-23T17:17:47 EST" duration-ms="5361" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://www.javatpoint.com/ds-linked-listDS Linked List Works]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Linked_list_jp -->
+        <test-method signature="Double_Link_List_jp()[pri:3, instance:com.automation.testcases.Test_TypesOfLinkListsPage@332729ad]" started-at="2021-11-23T17:17:47 EST" name="Double_Link_List_jp" finished-at="2021-11-23T17:17:53 EST" duration-ms="5710" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://www.javatpoint.com/doubly-linked-listDoubly Linked Link Works]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Double_Link_List_jp -->
+        <test-method signature="JP_Types_Of_Linked_List()[pri:3, instance:com.automation.testcases.Test_TypesOfLinkListsPage@332729ad]" started-at="2021-11-23T17:17:53 EST" name="JP_Types_Of_Linked_List" finished-at="2021-11-23T17:17:58 EST" duration-ms="5031" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://www.javatpoint.com/ds-types-of-linked-listTypes Link Works]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- JP_Types_Of_Linked_List -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.automation.testcases.Test_TypesOfLinkListsPage@332729ad]" started-at="2021-11-23T17:17:58 EST" name="close" finished-at="2021-11-23T17:17:59 EST" duration-ms="1010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.automation.testcases.Test_TypesOfLinkListsPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
